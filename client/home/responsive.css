@@ -1,0 +1,232 @@
+@media only screen and (min-width: 1920px) {
+    .slicknav_menu {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1919px) {
+    .slicknav_menu {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .slicknav_menu {
+        display: none;
+    }
+    .log span {
+        font-size: 12px;
+    }
+    .ddr {
+  font-size: 11px;
+  line-height: 19px;
+}
+ .single-item {
+  padding: 20px;
+}
+    
+    .left-co h6 {
+  font-size: 14px;
+}
+    div.owl-next {
+  float: right;
+  margin-left: 844px !important;
+}
+    .but a {
+  font-size: 11px;
+}
+    .join-left h2 {
+  font-size: 28px;
+}
+    
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .slicknav_menu {
+        display: block;
+    }
+    .mainmenu{display: none}
+    
+    .log span {
+  font-size: 13px;
+  padding: 9px 12px;
+}
+    .head_text > h1 {
+  font-size: 21px;
+  line-height: 63px;
+  padding: 7px 9px;
+}
+  .midal-item a {
+  font-size: 13px;
+  margin-top: 19px;
+  padding: 6px 20px;
+}  
+    .single-item {
+  padding: 7px;
+}
+    .left-co h6 {
+  font-size: 11px;
+}
+    .single-item > p {
+  font-size: 12px;
+}
+  
+    .owl-next i {
+  font-size: 55px;
+}
+    .owl-prev i {
+  color: #ddd;
+  font-size: 55px;
+}
+    div.owl-next {
+  float: right;
+  margin-left: 652px !important;
+}
+    .man-area ul li a {
+  margin: 2px 2px 16px;
+}
+.footer-top ul li a {
+  padding: 0 3px;
+}
+    .but a {
+  margin: 0 10px;
+  padding: 6px 9px;
+}
+    .join-left h2 {
+  font-size: 26px;
+}
+    
+    
+    
+}
+
+
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    /* #menu is the original menu */
+    .slicknav_menu {
+        display: block;
+    }
+    .mainmenu{display: none}
+    .log span {
+  font-size: 12px;
+  padding: 9px 1px;
+}
+    .head_text > h1 {
+  font-size: 28px;
+        line-height: 24px;
+}
+    .right-content p {
+  font-family: arial;
+  font-size: 7px;
+}
+    .right-content h2 {
+  font-size: 17px;
+  margin-bottom: 20px;
+  margin-top: 34px;
+}
+    .man-area {
+  margin-left: 0;
+}
+    .man-area ul li a {
+  height: 30px;
+  margin: 0 0 10px;
+  width: 30px;
+}
+    .left-item {
+  text-align: center;
+}
+    .join-left h2 {
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+    .but a {
+  font-size: 9px;
+  margin: 0 10px;
+  padding: 6px 10px;
+}
+    button {
+  width: 183px;
+}
+    .foo-right {
+  text-align: right;
+}
+    input {
+  background: transparent none repeat scroll 0 0;
+  border: 2px solid #f48946;
+  width: 183px;
+}
+    .owl-theme .owl-controls {
+  display: none;
+}
+    .left-content::after {display: none;
+}
+  
+    
+}
+
+@media only screen and (min-width: 300px) and (max-width: 479px) {
+    /* #menu is the original menu */
+  .slicknav_menu {
+        display: block;
+    }
+    .mainmenu{display: none}
+  .log span {
+  font-size: 8px;
+  padding: 1px;
+}
+    .start > a {
+  font-size: 15px;
+}
+    .head_text > h1 {
+  font-size: 28px;
+        line-height: 24px;
+}
+    .right-content p {
+  font-family: arial;
+  font-size: 7px;
+}
+    .right-content h2 {
+  font-size: 17px;
+  margin-bottom: 20px;
+  margin-top: 34px;
+}
+    .man-area {
+  margin-left: 0;
+}
+    .man-area ul li a {
+  height: 30px;
+  margin: 0 0 10px;
+  width: 30px;
+}
+    .left-item {
+  text-align: center;
+}
+    .join-left h2 {
+  font-family: arial;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0;
+}
+    .but a {
+  font-size: 9px;
+  margin: 0 10px;
+  padding: 6px 10px;
+}
+    button {
+  width: 183px;
+}
+    .foo-right {
+  text-align: right;
+}
+    input {
+  background: transparent none repeat scroll 0 0;
+  border: 2px solid #f48946;
+  width: 183px;
+}
+    .owl-theme .owl-controls {
+  display: none;
+}
+    
+}
